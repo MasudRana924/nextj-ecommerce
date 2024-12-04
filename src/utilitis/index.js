@@ -1,0 +1,1 @@
+export const api = 'https://quick-pay-96uq.onrender.com/api';
